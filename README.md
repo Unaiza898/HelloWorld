@@ -7,6 +7,7 @@ This app allows user to change text color and background
 ### App Walk-though
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
+![helloWorld!!](https://user-images.githubusercontent.com/65740643/107130325-2d592000-689a-11eb-9ec4-4a813e6cedb2.gif)
 
 
 ### Required User Stories
